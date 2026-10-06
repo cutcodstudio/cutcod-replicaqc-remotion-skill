@@ -1,0 +1,4 @@
+interface:
+  display_name: "ReplicaQC Remotion 复刻"
+  short_description: "用参考视频分析、纯 Remotion 重建与逐帧质检"
+  default_prompt: "请使用这个 Skill，把我提供的参考视频复刻成可编辑、可渲染、可核验的 Remotion 工程。"
